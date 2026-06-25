@@ -1,5 +1,11 @@
-# Vue 3 + Vite
+#  DevGrid — Interactive CSS Grid Template Engine (Vue.js)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+DevGrid is a single-page layout architect utility built using modern Vue.js v3 composition rules. It leverages multi-tier numeric ranges and reactive inline bindings to offer visual layout sandboxes that compile clean production-ready layout configurations instantly.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+##  Framework Implementation Details
+*  **Reactive Attribute Injections:** Directs custom system inputs straight into complex CSS variable string configurations, utilizing computed properties (`computed`) to cache evaluations.
+*  **Encapsulated Composition Structure:** Hosts core calculation logic scripts, structural markup, and scoped element query identifiers cleanly inside a single root wrapper component (`App.vue`).
+
+##  Running Instructions
+1. Install dependencies: `npm install`
+2. Run development compiler: `npm run dev`
