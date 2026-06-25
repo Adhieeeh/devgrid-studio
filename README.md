@@ -5,7 +5,7 @@ DevGrid is a single-page layout architect utility built using modern Vue.js v3 c
 
 ## Preview
 ![]
-!
+![]
 
 ##  Framework Implementation Details
 ------------------------------------------------------------------------
